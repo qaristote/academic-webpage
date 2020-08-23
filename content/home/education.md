@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Master's degree in Computer Science with minor in Mathematics"
+  company = "École Normale Supérieure"
+  company_url = "https://www.ens.psl.eu/"
+  location = "Paris, France"
+  date_start = "2019-09-01"
   date_end = ""
+  description = """""" # Currently taking a gap year. Completed the first year with highest honors.
+
+[[experience]]
+  title = "Bachelors' degrees in Computer Science and Mathematics"
+  company = "École Normale Supérieure"
+  company_url = "https://www.ens.psl.eu/"
+  location = "Paris, France"
+  date_start = "2018-09-01"
+  date_end = "2019-06-30"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Graduated with highest honors in Computer Science, with honors in Mathematics.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Higher Schools Preparatory Classes"
+  company = "Lycée Louis-le-Grand"
+  company_url = "https://www.louislegrand.fr/"
+  location = "Paris, France"
+  date_start = "2016-09-01"
+  date_end = "2018-06-30"
+  description = """
+  MPSI -- MP* (Mathematics & Physics).
+  """
 +++
