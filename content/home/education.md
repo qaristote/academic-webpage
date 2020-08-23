@@ -20,7 +20,7 @@ date_format = "2006"
 [[experience]]
   title = "Master's degree in Computer Science with minor in Mathematics"
   company = "École Normale Supérieure"
-  company_url = "https://www.ens.psl.eu/"
+  company_url = "https://www.ens.psl.eu/en"
   location = "Paris, France"
   date_start = "2019-09-01"
   date_end = ""
@@ -29,12 +29,12 @@ date_format = "2006"
 [[experience]]
   title = "Bachelors' degrees in Computer Science and Mathematics"
   company = "École Normale Supérieure"
-  company_url = "https://www.ens.psl.eu/"
+  company_url = "https://www.ens.psl.eu/en"
   location = "Paris, France"
   date_start = "2018-09-01"
   date_end = "2019-06-30"
   description = """
-  Graduated with highest honors in Computer Science, with honors in Mathematics.
+  Graduated with highest honors in computer science, with honors in mathematics.
   """
 
 [[experience]]
