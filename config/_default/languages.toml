@@ -5,8 +5,15 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
+[fr]
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+  title = "Quentin Aristote"
+  [fr.params]
+    description = "Page sur la toile de Quentin Aristote"
+    
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
