@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 31  # Order that this section will appear.
 
-title = "Other accomplish&shy;ments"
+title = "Autres accomplise&shy;ments"
 subtitle = ""
 
 # Date format
@@ -20,8 +20,8 @@ date_format = "2006"
 
 [[item]]
   organization = "École Polytechnique"
-  organization_url = "https://www.polytechnique.edu/en/"
-  title = "Passed École Polytechnique's entrance exam"
+  organization_url = "https://www.polytechnique.edu/"
+  title = "Admis à l'École Polytechnique"
   url = ""
   certificate_url = "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037548588"
   date_start = "2018-11-01"
