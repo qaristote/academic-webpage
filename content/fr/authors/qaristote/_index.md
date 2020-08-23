@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Student in Computer Science
+role: Élève Fonctionnaire Stagiaire -- Mastérien en Informatique
 
 # Organizations/Affiliations
 organizations:
@@ -18,8 +18,7 @@ organizations:
   url: "https://www.ens.psl.eu/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: 
 interests:
 education:
 
@@ -48,8 +47,8 @@ email: ""
 user_groups:
 ---
 
-I am a student at the [Computer Science Department (DI)](https://www.di.ens.fr/) of the [École Normale Supérieure de Paris](https://www.ens.psl.eu/en), an institution part of [PSL University](https://www.psl.eu/en). 
+J'étudie au [Département d'Informatique (DI)](https://www.di.ens.fr/) de l'[École Normale Supérieure de Paris](https://www.ens.psl.eu), un établissement membre de l'[Université PSL](https://www.psl.eu/). 
 
-I am mainly interested in category theory and functional programming, but I also enjoy broadening my knowledge in other diverse topics.
+Je m'intéresse principalement à la théorie des catégories et à la programmation fonctionnelle, bien que j'apprécie particulièrement approfondir mes connaissances dans d'autres domaines divers.
 
-I am currently following postgraduate courses in Mathematics before finishing my Master's degree in Theoretical Computer Science.
+Je suis actuellement des cours de mathématiques de niveau M1 avant de commencer un M2 d'informatique théorique.
