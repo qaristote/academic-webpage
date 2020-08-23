@@ -10,7 +10,7 @@ subtitle = ""
 +++
 
 
-## {{< icon name="envelope" pack="fas" >}} courriel s
+## {{< icon name="envelope" pack="fas" >}} courriels
 - académique : [quentin.aristote@ens.fr](mailto:quentin.aristote@ens.fr)
 - personnel : [quentin@aristote.fr](mailto:quentin@aristote.fr)
 
