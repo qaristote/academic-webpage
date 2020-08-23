@@ -18,8 +18,7 @@ organizations:
   url: "https://www.ens.psl.eu/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio:
 interests:
 education:
 
