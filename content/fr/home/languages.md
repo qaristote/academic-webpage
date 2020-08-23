@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 32  # Order that this section will appear.
 
-title = "Languages"
+title = "Langues"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,18 +17,18 @@ subtitle = ""
 [[feature]]
   icon = ":fr:"
   icon_pack = "emoji"
-  name = "French"
-  description = "Proficient"
+  name = "Français"
+  description = "C2"
   
 [[feature]]
   icon = ":uk:"
   icon_pack = "emoji"
-  name = "English"
-  description = "Proficient"
+  name = "Anglais"
+  description = "C1--C2"
   
 [[feature]]
   icon = ":jp:"
   icon_pack = "emoji"
-  name = "Japanese"
-  description = "Basic"
+  name = "Japonais"
+  description = "A2"
 +++
