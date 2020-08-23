@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = "2020-07-31"
   description = """
-  Étude de points fixes imbriqués dans un cadre de fibrationel et de notions de (bi)simulations pour les automates de B\u00FCchi sous la supervision d'[Ichiro Hasuo](https://group-mmm.org/~ichiro/) et de [Jérémy Dubut](https://group-mmm.org/~dubut/).
+  Étude de points fixes imbriqués dans un cadre fibrationel et de notions de (bi)simulations pour les automates de B\u00FCchi sous la supervision d'[Ichiro Hasuo](https://group-mmm.org/~ichiro/) et de [Jérémy Dubut](https://group-mmm.org/~dubut/).
   """
 
 [[experience]]
