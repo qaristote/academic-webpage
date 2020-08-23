@@ -10,12 +10,12 @@ subtitle = ""
 +++
 
 
-## {{< icon name="envelope" pack="fas" >}} e-mail 
-- academic : [quentin.aristote@ens.fr](mailto:quentin.aristote@ens.fr)
-- personal : [quentin@aristote.fr](mailto:quentin@aristote.fr)
+## {{< icon name="envelope" pack="fas" >}} courriel s
+- académique : [quentin.aristote@ens.fr](mailto:quentin.aristote@ens.fr)
+- personnel : [quentin@aristote.fr](mailto:quentin@aristote.fr)
 
-## {{< icon name="key" pack="fas" >}} public keys
+## {{< icon name="key" pack="fas" >}} clés publiques
 - GPG : [DFC1660846EEA97C059F18534EF515441E635D36](/files/pubkey.pgp)
 
-## {{< icon name="map-marker-alt" >}} address
+## {{< icon name="map-marker-alt" >}} adresse
 - École Normale Supérieure <br> 45 rue d'Ulm <br> 75230 CEDEX 05 Paris
