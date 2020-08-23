@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Stage de Recherche en Théorie des Catégories Appliquées"
+  title = "Stage de Recherche en Théorie des Catégories Appliquée"
   company = "ERATO MMSD, NII"
   company_url = "https://group-mmm.org/eratommsd/"
   location = "T\u014Dky\u014D, Japon"
