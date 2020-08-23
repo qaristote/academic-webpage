@@ -47,7 +47,7 @@ email: ""
 user_groups:
 ---
 
-J'étudie au [Département d'Informatique (DI)](https://www.di.ens.fr/) de l'[École Normale Supérieure de Paris](https://www.ens.psl.eu), un établissement membre de l'[Université PSL](https://www.psl.eu/). 
+J'étudie au [Département d'Informatique (DI)](https://www.di.ens.fr/) de [l'École Normale Supérieure de Paris](https://www.ens.psl.eu), un établissement membre de [l'Université PSL](https://www.psl.eu/). 
 
 Je m'intéresse principalement à la théorie des catégories et à la programmation fonctionnelle, bien que j'apprécie particulièrement approfondir mes connaissances dans d'autres domaines divers.
 
