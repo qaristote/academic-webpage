@@ -50,6 +50,6 @@ user_groups:
 
 I am a student at the [Computer Science Department (DI)](https://www.di.ens.fr/) of the [École Normale Supérieure de Paris](https://www.ens.psl.eu/en), an institution part of [PSL University](https://www.psl.eu/en). 
 
-My research interests include category theory and functional programming, but they are not limited to those fields as I love learning about new topics.
+I am mainly interested in category theory and functional programming, but I also enjoy broadening my knowledge in other diverse topics.
 
 I am currently following postgraduate courses in Mathematics before finishing my Master's degree in Theoretical Computer Science.
