@@ -51,4 +51,4 @@ I am a student at the [Computer Science Department (DI)](https://www.di.ens.fr/)
 
 I am mainly interested in category theory and functional programming, but I also enjoy broadening my knowledge in other diverse topics.
 
-I am currently following postgraduate courses in Mathematics before finishing my Master's degree in Theoretical Computer Science.
+I am currently following postgraduate courses in mathematics before finishing my Master's degree in theoretical computer science.
