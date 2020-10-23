@@ -35,5 +35,5 @@ date_format = "Jan 2006"
   location = "Luminy, France"
   date_start = "2018-06-12"
   date_end = "2018-07-31"
-  description = """Étude de triangulations dynamiques engendrées par des marches quantiques sous la supervision de [Giuseppe di Molfetta](https://www.giuseppe-dimolfetta.com/)."""
+  description = """Étude de triangulations dynamiques engendrées par des marches quantiques sous la supervision de [Giuseppe di Molfetta](https://www.giuseppe-dimolfetta.com/). [Rapport de stage](https://git.eleves.ens.fr/qaristote/rapport-stage-l3/-/blob/b9f9cc78ad3eabe6508be70cc27dc9bf89d34755/rapport.pdf)."""
 +++

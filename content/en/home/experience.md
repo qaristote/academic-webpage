@@ -36,5 +36,5 @@ date_format = "Jan 2006"
   location = "Luminy, France"
   date_start = "2018-06-12"
   date_end = "2018-07-31"
-  description = """Studied dynamical triangulations induced by quantum walks under the supervision of [Giuseppe di Molfetta](https://www.giuseppe-dimolfetta.com/)."""
+  description = """Studied dynamical triangulations induced by quantum walks under the supervision of [Giuseppe di Molfetta](https://www.giuseppe-dimolfetta.com/). [Internship report](https://git.eleves.ens.fr/qaristote/rapport-stage-l3/-/blob/b9f9cc78ad3eabe6508be70cc27dc9bf89d34755/rapport.pdf) (in French)."""
 +++
