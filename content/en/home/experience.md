@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2020-07-31"
   description = """
   Studied a fibrational framework for nested fixed points and (bi)simulation 
-  notions for B\u00FCchi automata under the supervision of [Ichiro Hasuo](https://group-mmm.org/~ichiro/) and [Jérémy Dubut](https://group-mmm.org/~dubut/).
+  notions for B\u00FCchi automata under the supervision of [Ichiro Hasuo](https://group-mmm.org/~ichiro/) and [Jérémy Dubut](https://group-mmm.org/~dubut/). [Internship report](https://git.eleves.ens.fr/qaristote/m1-internship-report/uploads/3431548a277eb5fc297d8e7d93d1e3ce/aristote_quentin_m1_internship_report.pdf).
   """
 
 [[experience]]
