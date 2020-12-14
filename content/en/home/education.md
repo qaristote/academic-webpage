@@ -24,7 +24,7 @@ date_format = "2006"
   location = "Paris, France"
   date_start = "2019-09-01"
   date_end = ""
-  description = """""" # Currently taking a gap year. Completed the first year with highest honors.
+  description = "Currently taking a gap year. Completed the first year with highest honors." 
 
 [[experience]]
   title = "Bachelors' degrees in Computer Science and Mathematics"

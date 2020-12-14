@@ -24,7 +24,7 @@ date_format = "2006"
   location = "Paris, France"
   date_start = "2019-09-01"
   date_end = ""
-  description = """""" # Actuellement en césure. M1 obtenu avec mention très bien.
+  description = "Actuellement en césure. M1 obtenu avec mention très bien."
 
 [[experience]]
   title = "Double licence en Informatique et Mathématiques"
